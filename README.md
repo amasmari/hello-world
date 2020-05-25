@@ -2,4 +2,4 @@
 Ideas and short comments
 
 
-this sounds cool
+this sounds cool!
