@@ -11,6 +11,4 @@ def LetUsTalk():
     print("We can have even more colorful conversations if I only knew more of your language!")
     print(User + " hlep chat more with you and everyone! can you make me smarter?")
 
-    return None
-
 LetUsTalk()               
