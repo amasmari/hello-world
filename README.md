@@ -1,6 +1,3 @@
-# hello-world
-Ideas and short comments
+Ideas and short comments on talkin script
 
-First github file, wii be updated with cool ideas:
-
--Sometimes programing realy help in areas of learning that are not directly connected
+Wil be updated with cool ideas and implementations of scripts that can have conversations with users
